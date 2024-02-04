@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatBotX</string>
+    <string name="sign">THE X COMPANY</string>
+    <string name="btn">SEND</string>
+    <string name="text">Enter receiver\'s phone no.</string>
+    <string name="msg">Enter message</string>
+</resources>
